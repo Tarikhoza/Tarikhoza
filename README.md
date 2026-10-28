@@ -1,14 +1,14 @@
 # As-salamu alaykum, I'm Tarik Hozić 👋
 
-**Full-Stack & AI Software Engineer** based in **Al Madinah Al Munawwarah, Saudi Arabia** 🇸🇦  
-*3 years of professional software engineering experience in Austria • Computer Science at TU Graz • 1st Place Winner @ Techhouse AI Hackathon*
+**Full-Stack & AI Software Engineer** based in **Al Madinah Al Munawwarah, Saudi Arabia**  
+*3 years of professional software engineering experience in Austria • studied Computer Science at TU Graz*
 
 ---
 
 ### 🚀 What I'm Building Right Now (in Al Madinah)
 
 - 🕌 **Ruletash — High-Accuracy Arabic Vocalization (*Tashkeel*) & Syntactic Grammar Engine**  
-  Built in **Rust** and **Python** on a 22M-word corpus with one core mission: **to make the Arabic language accessible for everyone**.  
+  Built in **Rust** with one core mission: **to make the Arabic language accessible for everyone**.  
   *Why it matters:* Without accurate *harakat* and grammatical case endings (*i'rab*), **Arabic Text-to-Speech (TTS)** and AI voice models mispronounce words and flip meanings, automated dubbing/subtitles sound unnatural, and students struggle to read Classical and Modern Standard Arabic accurately. Ruletash solves this at the root using morphological clitic decomposition and a deterministic Arabic syntax state machine.
 
 - ⚡ **Full-Stack Web Platforms, AI Agents & Media Automation**  
@@ -25,7 +25,6 @@
 | [**Ankiniser**](https://github.com/Tarikhoza/Ankiniser) | `Python` `FFmpeg` `Media` | High-throughput media and subtitle synchronization pipeline that transforms video/audio streams and subtitles into structured learning decks. |
 | [**Techhouse-Hackaton-Backend**](https://github.com/Tarikhoza/Techhouse-Hackaton-Backend) | `Python` `Flask` `CV/AI` | **🥇 1st Place Winner (Techhouse Mobilathon)** — End-to-end computer vision defect detection & segmentation backend and real-time analytics API. |
 | [**math_engine**](https://github.com/Tarikhoza/math_engine) | `Rust` `Symbolic Math` | Modular symbolic mathematics solver and step-by-step interactive debugger built in Rust. |
-| [**JapaneseDataHorder**](https://github.com/Tarikhoza/JapaneseDataHorder) | `Python` `Scraping` | Multi-source linguistic data aggregator and scraper (Takoboto, Tatoeba, Ichimoe, OJAD pitch accents). |
 
 ---
 
